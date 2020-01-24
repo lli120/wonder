@@ -1,6 +1,6 @@
 # wonder
 
-1. git pull the repo, place all files under a folder in yoru local apache /var/www dir. 
+1. git pull the repo, place all files under a folder in your local apache /var/www dir. 
 2. Fireup a browser, start off index.php i.e.: If your folder name is "wonder", url should be localhost/wonder/index.php
 3. Make sure the created folder has 775 permission, we will be generating a data file in. i.e.: chmod -R 775 wonder
 Light It OFF!
